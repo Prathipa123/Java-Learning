@@ -1,4 +1,4 @@
-public class wild{
+public class bit{
 public static void main(String[] args){
 String userName = "Prathipa";
 int stepsWalked = 8500;
